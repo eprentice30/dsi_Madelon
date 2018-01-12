@@ -5,6 +5,6 @@ set with the most impact. By removing a single category and cross referencing th
 to identify the largest contributing features. We then removed more features based on high correlations. For
 the UCI dataset, we were able to reduce down to 8 features with an accuracy score of 89.6%. For the instructors
 dataset, we were able to reduce down to 11 features with an accuracy score of 85.63%. Ideally this method
-would be eective on any data set composed of a large number of features of unknown importance, helping to
+would be effective on any data set composed of a large number of features of unknown importance, helping to
 eliminate bias in feature reduction.
 
